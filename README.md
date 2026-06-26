@@ -20,7 +20,7 @@ I enjoy transforming raw data into meaningful insights and building intelligent 
 - 📊 Data Science & Machine Learning Enthusiast
 - 🤖 Building AI-powered applications
 - 📈 Passionate about Data Analytics & Visualization
-- 🌱 Currently learning Deep Learning & MLOps
+- 🌱 Currently learning Deep Learning & computer vision
 - 💡 Always open to collaboration on AI and Data projects
 
 ---
@@ -94,13 +94,6 @@ I enjoy transforming raw data into meaningful insights and building intelligent 
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=gehadhelmy&theme=tokyonight&no-frame=true&margin-w=10)
-
----
 
 ## 📫 Connect With Me
 
